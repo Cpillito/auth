@@ -1,0 +1,25 @@
+{
+  "name": "microAuth",
+  "version": "0.0.1",
+  "description": "Microservicio para entorno REST",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app"
+  },
+  "dependencies": {
+    "bcrypt-nodejs": "0.0.3",
+    "bcryptjs": "*",
+    "body-parser": "*",
+    "chalk": "^2.4.1",
+    "cors": "*",
+    "express": "*",
+    "js-search": "^2.0.0",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "passport": "*",
+    "passport-jwt": "*"
+  },
+  "author": "TrAvV",
+  "license": "ISC"
+}

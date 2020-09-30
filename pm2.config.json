@@ -1,0 +1,8 @@
+{
+  apps : [
+    {
+      name      : "auth",
+      script    : "npm start"
+    }
+  ]
+}
